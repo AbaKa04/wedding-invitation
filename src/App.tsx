@@ -62,7 +62,7 @@ export default function App() {
   return (
     <>
       {/* ГЛОБАЛЬНЫЙ АУДИОПЛЕЕР (играет бесконечно) */}
-      <audio ref={audioRef} src="/aud.mp3" loop />
+      <audio ref={audioRef} src="aud.mp3" loop />
 
       <SilkBackground />
 

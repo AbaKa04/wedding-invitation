@@ -38,7 +38,7 @@ export default function Hero({ t }: { t: Translation }) {
         >
           <div className="overflow-hidden rounded-[2rem] shadow-2xl ring-1 ring-gold/20">
             <img
-              src="/Hands.jpg"
+              src="Hands.jpg"
               alt="Бекназар и Аруа"
               className="h-auto w-full object-cover"
             />

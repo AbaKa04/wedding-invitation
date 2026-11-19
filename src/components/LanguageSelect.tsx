@@ -7,7 +7,7 @@ export default function LanguageSelect({ onSelect }: { onSelect: (lang: Language
       
       {/* ФОНОВОЕ ФОТО */}
       <img
-        src="/Lang_selector.jpg"
+        src="Lang_selector.jpg"
         alt="Background"
         className="absolute inset-0 h-full w-full object-cover"
       />

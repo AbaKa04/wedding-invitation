@@ -2,8 +2,8 @@ import { useRef, useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Translation } from '../translations';
 
-const VIDEO_SRC = '/animation.mp4';
-const POSTER_SRC = '/Invitation.jpg';
+const VIDEO_SRC = 'animation.mp4';
+const POSTER_SRC = 'Invitation.jpg';
 
 export default function VideoIntro({ 
   onFinish, 
