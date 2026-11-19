@@ -5,7 +5,7 @@ export const TRANSLATIONS = {
     },
     hero: {
       invitation: 'Приглашение на свадьбу',
-      hosts: 'Той ээлери',
+      hosts: 'Хозяева торжества',
       scroll: 'Листайте',
     },
     invite: {
@@ -73,7 +73,7 @@ export const TRANSLATIONS = {
     },
     countdown: {
       kicker: 'Тоюбузга чейин',
-      title: 'Кери саноо',
+      title: 'биздин озгочо кунго чейин',
       days: ['күн', 'күн', 'күн'],
       hours: ['саат', 'саат', 'саат'],
       minutes: ['мүнөт', 'мүнөт', 'мүнөт'],
